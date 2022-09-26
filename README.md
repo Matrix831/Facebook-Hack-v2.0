@@ -11,4 +11,4 @@
 
 >cd WiFi-Hack
 
->python wifiexploition.py
+>python wifiexploit.py

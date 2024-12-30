@@ -1,4 +1,4 @@
-# WiFi-Hack
+# Facebook-Hack-v2.0
 
 
 >pkg update
@@ -7,8 +7,8 @@
 
 >pkg install python
 
->git clone https://github.com/Knownasjohnn/WiFi-Hack
+>git clone https://github.com/Matrix831/Facebook-Hack-v2.0
 
->cd WiFi-Hack
+>cd Facebook-Hack-v2.0
 
->python wifiexploit.py
+>python facebook-exploit.py
